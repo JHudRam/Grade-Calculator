@@ -1,9 +1,3 @@
-/*
- PIC 10A Homework 2, Grade.cpp
- Author: Jacob Ramos
- Date: 2-6-23
- */
-
 #include <iostream>
 #include <string>
 using namespace std;
